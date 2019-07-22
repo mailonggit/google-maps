@@ -1,4 +1,4 @@
-# google-maps
+# google-maps application
 An application where you can find the minimum velocity on 2 markers.
 
 -Framework: Flutter
@@ -6,7 +6,7 @@ An application where you can find the minimum velocity on 2 markers.
 -Language: Dart
 
 -Plugin: google_map_flutter
-# What I learn
+# What I learned
 -Know how to create API key.
 
 -Use plugin google_maps.
