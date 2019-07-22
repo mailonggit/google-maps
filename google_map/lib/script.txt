@@ -1,0 +1,22 @@
+onClick:
+    Create User Location
+        Location
+        Time
+    Add User location to list of class
+
+    in build()
+        foreach userLocation in list
+            create marker from location of userLocation
+        
+        velocityList;
+        {
+            UserLocation l1;
+            userlocation l2;
+            double velocity;
+        }
+        for each two userLocation in list (0, 1) (1, 2) (2, 3)
+            add velocity to list velocity
+        
+        Draw marker
+        from velocityList Draw polygon 
+        
